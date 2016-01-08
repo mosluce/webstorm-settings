@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="ssh_login" type="PLAIN_TEXT" />
+      <mapping pattern="key" type="PLAIN_TEXT" />
+      <mapping pattern="Gruntfile" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
