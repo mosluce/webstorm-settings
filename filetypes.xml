@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="run-dev" type="PLAIN_TEXT" />
       <mapping pattern="ssh_login" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="Gruntfile" type="PLAIN_TEXT" />
     </extensionMap>
