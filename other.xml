@@ -48,12 +48,7 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.8.0/bin/node" version="5.8.0" last-modified="1457492119000" />
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.2/bin/node" version="4.2.2" last-modified="1446580476000" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.4.0/bin/node" version="4.4.0" last-modified="1457490456000" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.3.2/bin/node" version="4.3.2" last-modified="1456949035000" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.4/bin/node" version="4.2.4" last-modified="1450889223000" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.9/bin/node" version="0.12.9" last-modified="1449179735000" />
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.3.1/bin/node" version="4.3.1" last-modified="1455666390000" />
   </component>
 </application>
