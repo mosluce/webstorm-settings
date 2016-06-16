@@ -48,6 +48,12 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.2.1/bin/node">
+      <version-cache version="6.2.1" last-modified="1464903872000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.2.0/bin/node">
+      <version-cache version="6.2.0" last-modified="1463514276000" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.1.0/bin/node">
       <version-cache version="6.1.0" last-modified="1462485501000" />
     </local-interpreter>
