@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="pug" type="Jade" />
+      <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="run-dev" type="PLAIN_TEXT" />
       <mapping pattern="directives/city-list" type="PLAIN_TEXT" />
       <mapping pattern="ssh_login" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
-      <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="Gruntfile" type="PLAIN_TEXT" />
       <mapping ext="config" type="YAML" />
     </extensionMap>
