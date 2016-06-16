@@ -79,6 +79,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="bootstrap-material-design.umd" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_bootstrap-material-design_4.0.1_bootstrap-material-design.umd.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_bootstrap-material-design_4.0.1_bootstrap-material-design.umd.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="html5shiv" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_libs_html5shiv_3.7.0_html5shiv.js" />
