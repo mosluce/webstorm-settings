@@ -44,13 +44,13 @@
     <library name="angular-material" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angular_material_1.1.0-rc2_angular-material.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_angular_material_1.1.0-rc2_angular-material.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angular_material_1.1.0-rc2_angular-material.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angular_material_1.1.0-rc2_angular-material.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_angular_material_1.1.0-rc2_angular-material.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angular_material_1.1.0-rc2_angular-material.js" />
       </CLASSES>
       <SOURCES />
     </library>
