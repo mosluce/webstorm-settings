@@ -90,6 +90,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="browser" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-core_5.8.34_browser.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-core_5.8.34_browser.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="html5shiv" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_libs_html5shiv_3.7.0_html5shiv.js" />
@@ -134,6 +145,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="react" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_react_15.2.1_react.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_react_15.2.1_react.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="react-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_react_react-addons-perf.d.ts" />
@@ -149,6 +171,17 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_react_react-dom.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_react_react-global-0.13.3.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_react_react-global.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="react-dom" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_react_15.2.1_react-dom.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_react_15.2.1_react-dom.js" />
       </CLASSES>
       <SOURCES />
     </library>
